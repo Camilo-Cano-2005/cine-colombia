@@ -6,3 +6,7 @@ div.container div.row div.card img:hover {
 div.container div.col-1 img:hover {
     background: aqua;
 }
+
+div.col-1 p {
+    text-align: center;
+}
